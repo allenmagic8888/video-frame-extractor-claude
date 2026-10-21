@@ -8,6 +8,10 @@
     "url": "https://videoframes.app/?utm_source=claude&utm_medium=plugin&utm_campaign=made_by"
   },
   "homepage": "https://videoframes.app/?utm_source=claude&utm_medium=plugin&utm_campaign=homepage",
+  "repository": "https://github.com/allenmagic8888/video-frame-extractor-claude",
+  "documentationUrl": "https://github.com/allenmagic8888/video-frame-extractor-claude#readme",
+  "supportUrl": "https://github.com/allenmagic8888/video-frame-extractor-claude/issues",
+  "privacyPolicyUrl": "https://videoframes.app/privacy/",
   "license": "MIT",
   "keywords": ["video", "watch video", "summarize video", "video to text", "lecture notes", "slides from video", "tiktok script", "video breakdown", "shot list", "frames", "screenshots from video", "video to images", "scene detection", "screen recording", "pdf", "mp4"]
 }
