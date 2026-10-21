@@ -11,7 +11,7 @@
   "repository": "https://github.com/allenmagic8888/video-frame-extractor-claude",
   "documentationUrl": "https://github.com/allenmagic8888/video-frame-extractor-claude#readme",
   "supportUrl": "https://github.com/allenmagic8888/video-frame-extractor-claude/issues",
-  "privacyPolicyUrl": "https://videoframes.app/privacy/",
+  "privacyPolicyUrl": "https://github.com/allenmagic8888/video-frame-extractor-claude/blob/main/PRIVACY.md",
   "license": "MIT",
   "keywords": ["video", "watch video", "summarize video", "video to text", "lecture notes", "slides from video", "tiktok script", "video breakdown", "shot list", "frames", "screenshots from video", "video to images", "scene detection", "screen recording", "pdf", "mp4"]
 }

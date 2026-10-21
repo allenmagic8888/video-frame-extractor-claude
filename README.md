@@ -92,5 +92,6 @@ The same developer makes **Video Frame Extractor** for Chrome, which adds what a
 ## Support and privacy
 
 - Contact: allenmagic888@gmail.com
-- Privacy policy: https://videoframes.app/privacy/
+- Privacy policy (plugin): [PRIVACY.md](PRIVACY.md)
+- Privacy policy (Chrome extension): https://videoframes.app/privacy/
 - License: MIT
