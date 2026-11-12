@@ -1,6 +1,6 @@
 {
   "name": "video-frame-extractor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Let Claude see your video: summarize it, make notes from lecture slides, find a moment, or get the script and shot list of a TikTok or ad. Or save frames as JPG, PNG, ZIP or PDF.",
   "author": {
     "name": "Video Frame Extractor",
